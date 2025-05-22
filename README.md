@@ -1,3 +1,6 @@
+Quality Assurance (QA)
+Conteúdo Programático
+
 Estudo das práticas, metodologias e ferramentas para garantia da qualidade, com foco em planejamento, execução, automação de testes e integração contínua. Abordagem de técnicas modernas como testes exploratórios, testes baseados em dados e a aplicação de inteligência artificial na automação de QA. Exploração de conceitos avançados como Shift-Left Testing, Test-Driven Development (TDD) e Behavior-Driven Development (BDD), além de integração com DevOps e métricas de qualidade em tempo real.
 
 COMPETÊNCIAS DESENVOLVIDAS:
